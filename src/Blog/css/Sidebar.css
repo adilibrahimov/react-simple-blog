@@ -1,0 +1,41 @@
+.sidebar{
+    width: 220px;
+    height: 530px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #e9e4e4;
+    position: absolute;
+}
+.sidebar-container{
+    padding: 20px;
+    
+}
+.photo{
+    width: 185px;
+    height: 175px;
+
+}
+
+.image{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    
+  
+}
+.image-botton-text{
+    font-weight: 900;
+    font-size: 12px;
+}
+.text-p{
+    font-size: 12px;
+}
+.fab{
+    padding: 5px;
+    font-size: 20px;
+}
+.built{
+    font-size: 12px;
+}

@@ -1,0 +1,39 @@
+body{
+    background: #f0f0f0;
+}
+nav{
+    width: 100%;
+    height: 78px;
+    background: rgb(151, 40, 40);
+}
+.container{
+    max-width: 940px;
+    margin: 0 auto;
+    
+}
+.daneli{
+    text-align: left;
+    font-size: 25px;
+    justify-content: center;
+    line-height: 72px;
+    position: absolute;
+}
+.menu{
+    position: relative;
+    float: right;
+}
+.menu ul li{
+    float: left;
+    padding: 5px;
+    list-style: none;
+    font-size: 20px;
+    line-height: 65px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #000;
+}
+.daneli-text{
+    color: #000;
+    text-decoration: none;
+}

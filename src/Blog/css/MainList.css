@@ -1,0 +1,27 @@
+.mainlist{
+    width: 690px;
+    height: 222px;
+    border-radius: 5px;
+    border: 1px solid #e9e4e4;
+    display: flex;
+    background: #fff;
+    margin-bottom: 30px;
+}
+.mainlist-border{
+    padding: 20px 0 20px 20px;
+    border-radius: 5px;
+    
+}
+.mainlist-border img{
+    width: 197px;
+    height: 180px;
+}
+.mainlist-text{
+    display: block;
+    float: right;
+    padding: 20px ;
+    
+}
+.front-text{
+    font-size: 15px;
+}
